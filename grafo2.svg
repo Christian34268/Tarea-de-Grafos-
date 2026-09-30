@@ -1,0 +1,18 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='500' height='500'>
+<rect width='100%' height='100%' fill='white'/>
+<line x1='421' y1='194' x2='250' y2='70' stroke='black' stroke-width='2'/>
+<line x1='421' y1='194' x2='355' y2='395' stroke='black' stroke-width='2'/>
+<line x1='355' y1='395' x2='250' y2='70' stroke='black' stroke-width='2'/>
+<line x1='355' y1='395' x2='144' y2='395' stroke='black' stroke-width='2'/>
+<line x1='78' y1='194' x2='144' y2='395' stroke='black' stroke-width='2'/>
+<circle cx='250' cy='70' r='32' fill='#cfe8ff' stroke='black' stroke-width='2'/>
+<text x='250' y='75' font-size='13' text-anchor='middle' font-family='sans-serif'>Quito</text>
+<circle cx='421' cy='194' r='32' fill='#cfe8ff' stroke='black' stroke-width='2'/>
+<text x='421' y='199' font-size='13' text-anchor='middle' font-family='sans-serif'>Ambato</text>
+<circle cx='355' cy='395' r='32' fill='#cfe8ff' stroke='black' stroke-width='2'/>
+<text x='355' y='400' font-size='13' text-anchor='middle' font-family='sans-serif'>Puyo</text>
+<circle cx='144' cy='395' r='32' fill='#cfe8ff' stroke='black' stroke-width='2'/>
+<text x='144' y='400' font-size='13' text-anchor='middle' font-family='sans-serif'>Tena</text>
+<circle cx='78' cy='194' r='32' fill='#cfe8ff' stroke='black' stroke-width='2'/>
+<text x='78' y='199' font-size='13' text-anchor='middle' font-family='sans-serif'>Coca</text>
+</svg>
